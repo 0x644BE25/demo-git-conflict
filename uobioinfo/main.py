@@ -2,8 +2,10 @@ import argparse
 
 
 def say_something(phrase): # ... I'm giving up on you. 
-    """Change this however you'd like!"""
+<<<<<<< HEAD
+    """LEAVE IT ALONE"""
     print("testphrase1")
+>>>>>>> update main
     print(phrase)
     print("testphrase2")
 
